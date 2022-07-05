@@ -1,5 +1,5 @@
-## Olá! Eu sou o Gabriel Batista Soares 👀👋
-## Sou apaixonado por novas tecnologias através da programação.
+## Olá! Eu sou o Gabriel Batista Soares, Desenvolvedor Front-End Mobile/Web 👀👋
+
 
 ## Redes Sociais!
 
